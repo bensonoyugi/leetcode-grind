@@ -94,6 +94,8 @@ def containsDuplicate(nums):
 
 - **Clarity and Simplicity**: The hashset approach is both concise and easy to understand. It immediately conveys the idea of tracking what we've seen and quickly identifies duplicates. It balances performance with clarity, making it an ideal choice for solving the "Contains Duplicate" problem.
 
+![Image](./swappy-20241012-201657.png)
+
 ---
 
 ## Conclusion
