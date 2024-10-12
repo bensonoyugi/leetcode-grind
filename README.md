@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Welcome to my LeetCode solutions repository! 🚀 Here, I will be solving all the LeetCode challenges in **four** programming languages: **Go**, **Python**, **JavaScript**, and **Kotlin**. I will be following [neetcode's roadmap](https://neetcode.io/roadmap).
+Welcome to my LeetCode solutions repository! 🚀 Here, I will be solving all the LeetCode challenges in **four** programming languages: **Go**, **Python**, **JavaScript**, and **Kotlin**.
 
 Feel free to explore the solutions and track my progress on my [LeetCode profile](https://leetcode.com/u/bensonoyugi/).
 
@@ -79,5 +79,6 @@ I will be updating this repository regularly as I complete more LeetCode problem
 
 If you have any questions or suggestions, feel free to reach out!
 
+- GitHub: [bensonoyugi](https://github.com/bensonoyugi)
+- Email: [bensonoyugi](mailto:bensonoyugi@protonmail.com)
 - LeetCode: [Benson Oyugi](https://leetcode.com/u/bensonoyugi/)
-- GitHub: [yourusername](https://github.com/yourusername)
